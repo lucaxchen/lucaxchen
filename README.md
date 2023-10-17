@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone😗, My name is Lucas(Chinese name: Yang Chen)
 
 <!--
 **lucaxchen/lucaxchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🤔 I’m looking for help with Job finding!
+- 📫 How to reach me: lucaxchen[AT]gmail[dot]com
+
