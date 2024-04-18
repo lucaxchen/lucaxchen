@@ -5,4 +5,4 @@ I am working on a distributed system and system fault tolerance.
 
 - 🤔 Looking for help with Job finding!
 - 📫 How to reach me: lucaxchen[AT]gmail[dot]com
-- Working at Purdue Univ and Cornell Univ
+- Working at Amazon inc. and Cornell Univ
