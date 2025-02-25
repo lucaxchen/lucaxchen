@@ -1,7 +1,7 @@
-### Hi everyone😗, My name is Lucas Chen
+### Hi everyone, My name is Yang Chen
 
 I am a hardworking programmer and also a genius cook🧑‍🍳!  
-I am working on a distributed system(Tremendous Data Storage and Data Processing) and system fault tolerance.
+I am working at PartiQL team right focusing on query engine and database management systems.
 
 - Currently working as Software Dev Engineer at Amazon Inc.
-- 📫 How to reach me: lucaxchen[AT]gmail[dot]com
+- 📫 How to reach me: chatyang[AT]amazon[DOT]com
